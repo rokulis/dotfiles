@@ -1,5 +1,6 @@
 apps=(
 google-chrome
+microsoft-edge
 spotify
 vlc
 intellij-idea
@@ -26,7 +27,7 @@ notion
 teamviewer
 webtorrent
 pgadmin4
-
+microsoft-teams
 )
 
 for app in "${apps[@]}"
