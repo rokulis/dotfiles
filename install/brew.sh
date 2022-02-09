@@ -9,7 +9,9 @@ mackup
 go
 croc
 hashicorp/tap/terraform
+awscli
 )
+
 
 for app in "${apps[@]}"
 do

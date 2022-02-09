@@ -28,6 +28,8 @@ teamviewer
 webtorrent
 pgadmin4
 microsoft-teams
+postman
+zoom
 )
 
 for app in "${apps[@]}"
